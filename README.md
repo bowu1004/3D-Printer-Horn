@@ -1,2 +1,4 @@
 # 3D-Printer-Horn
-I use 3D printer to print a horn/trumpet-shape cover mounted to a MEMS microphone.
+With the aim to listen to directional sounds by MEMS-fabricated omnidirectional microphones, I plan to design a trumpet/horn-shape cover mounted to the microphones. Current version is v3.
+
+
